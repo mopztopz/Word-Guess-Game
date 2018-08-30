@@ -1,0 +1,33 @@
+.green {
+    background: #003AB2 !important;
+    
+}
+
+body {
+    background: #FFAF00;
+}
+
+.red {
+    background: red !important;
+}
+
+.small-box {
+    background-color: #FFE2A0;
+    border: 1px solid black;
+    height: 50%;
+}
+
+.content-box {
+    border: 1px solid black;
+    background: #FFAF00;
+}
+
+/* .allbox{
+      height: 100% !important;
+  } */
+
+footer {
+    
+    border-top: solid black 2px;
+    background:  #003AB2;
+}
