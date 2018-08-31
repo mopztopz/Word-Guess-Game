@@ -1,10 +1,10 @@
 .green {
-    background: #003AB2 !important;
+    background: #007AB2 !important;
     
 }
 
 body {
-    background: #FFAF00;
+    /* background: #FFAF00; */
 }
 
 .red {
@@ -19,7 +19,7 @@ body {
 
 .content-box {
     border: 1px solid black;
-    background: #FFAF00;
+    background: #64CEFF;
 }
 
 /* .allbox{
@@ -29,5 +29,5 @@ body {
 footer {
     
     border-top: solid black 2px;
-    background:  #003AB2;
+    background:  #007AB2;
 }
