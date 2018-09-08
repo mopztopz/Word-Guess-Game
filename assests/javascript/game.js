@@ -1,7 +1,24 @@
-var lives = 10;
-var fighters = ['ryu', 'ken', 'sagat', 'blanka', 'e-honda', 'zangief', 'chun-li', 'dhalsim']      // list of word to be guessed
-//picks a random word
-var fighters = fighters[Math.floor(Math.random() * fighters.length)];
+// var lives = 10;
+var fighters = ['ryu', 'ken', 'sagat', 'blanka', 'e-honda', 'zangief', 'chun-li', 'dhalsim'];      // list of word to be guessed
+
+var fighters = fighters[Math.floor(Math.random() * fighters.length)]; //picks a random word
+var getGuess = document.getElementById("guess");
+var getUserText = document.getElementById("user-text");
+var getWord = document.getElementById("word");
+var getResult = document.getElementById("result");
+var getWin = document.getElementById("win");
+var getlives = document.getElementById("livesLeft");
+
+
+
+
+
+
+
+
+
+
+
 
 // answer array
 var answer = [];

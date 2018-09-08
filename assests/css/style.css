@@ -4,7 +4,12 @@
 }
 
 body {
-    /* background: #FFAF00; */
+    background-image: url(../images/upfeathers.png);
+}
+
+#game-container{
+    max-width: 53%;
+    max-height: 1;
 }
 
 .red {
@@ -19,7 +24,7 @@ body {
 
 .content-box {
     border: 1px solid black;
-    background: #64CEFF;
+    background-image: url(../images/honda-stage.jpg);
 }
 
 /* .allbox{
@@ -30,4 +35,5 @@ footer {
     
     border-top: solid black 2px;
     background:  #007AB2;
+    height: 5%;
 }
